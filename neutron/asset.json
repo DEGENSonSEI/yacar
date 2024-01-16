@@ -33,6 +33,14 @@
     "icon": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/neutron/factory/neutron143wp6g8paqasnuuey6zyapucknwy9rhnld8hkr/bad.png"
   },
   {
+    "id": "factory/neutron14henrqx9y328fjrdvz6l6d92r0t7g5hk86q5nd/uastropepe",
+    "name": "factory/neutron14henrqx9y328fjrdvz6l6d92r0t7g5hk86q5nd/uastropepe",
+    "symbol": "factory/neutron14henrqx9y328fjrdvz6l6d92r0t7g5hk86q5nd/uastropepe",
+    "decimals": "6",
+    "type": "tokenfactory",
+    "total_supply_api": "https://neutron-rest.publicnode.com/cosmos/bank/v1beta1/supply?pagination.key=ZmFjdG9yeS9uZXV0cm9uMTRoZW5ycXg5eTMyOGZqcmR2ejZsNmQ5MnIwdDdnNWhrODZxNW5kL3Vhc3Ryb3BlcGU%3D&pagination.limit=1"
+  },
+  {
     "id": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
     "name": "AtomEconomicZone69JaeKwonInu",
     "symbol": "CIRCUS",
